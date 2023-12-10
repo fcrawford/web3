@@ -1,1 +1,7 @@
 /.quarto/
+_site
+*.swp
+*/*.swp
+resume/crawford_cv_academic.pdf
+resume/crawford_resume.pdf
+
