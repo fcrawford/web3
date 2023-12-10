@@ -1,0 +1,1962 @@
+entries:
+    sun2022causal:
+        type: article
+        title: Causal identification for continuous-time stochastic processes
+        year: '2022'
+        journal: Submitted
+        arxiv: https://arxiv.org/abs/2211.15934
+        note: (Winner of Best Student Paper award at 2023 Lifetime Data Science Conference
+            (LiDS))
+        author:
+        -   first: J
+            last: Sun
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+    sun2023causal:
+        type: article
+        title: The role of discretization scales in causal inference with continuous-time
+            treatment
+        year: '2023'
+        journal: Submitted
+        arxiv: https://arxiv.org/pdf/2306.08840.pdf
+        author:
+        -   first: J
+            last: Sun
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+    zhang2022direct:
+        type: article
+        title: Two perspectives on direct effects under interference
+        year: '2022'
+        journal: Working Paper
+        author:
+        -   first: Y
+            last: Zhang
+        -   first: O
+            last: Morozova
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+    battaglini2020graphical:
+        type: article
+        title: 'A Graphical Lasso Approach to Estimating Network Connections: The
+            Case of {U.S.} Lawmakers'
+        arxiv: https://www.nber.org/papers/w27557
+        journal: Working Paper
+        year: '2020'
+        author:
+        -   first: M
+            last: Battaglini
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+        -   first: E
+            last: Patacchini
+        -   first: S
+            last: Peng
+    schulz2023real:
+        type: article
+        title: Real-time Dissection and Forecast of Infection Dynamics during a Pandemic
+        arxiv: https://www.medrxiv.org/content/10.1101/2023.03.02.23286502v1
+        year: '2023'
+        journal: Submitted
+        author:
+        -   first: S
+            last: Schulz
+        -   first: R
+            last: Pastor
+        -   first: C
+            last: Koyuncuoglu
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+        -   first: D
+            last: Zernick
+        -   first: A
+            last: Karch
+        -   first: S
+            last: R\"udiger
+    josephs2022communication:
+        type: article
+        title: Communication network dynamics in a large organizational hierarchy
+        year: '2022'
+        journal: Submitted
+        arxiv: https://arxiv.org/abs/2208.01208
+        author:
+        -   first: N
+            last: Josephs
+        -   first: S
+            last: Peng
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+    erlendsdottir2021modeling:
+        type: article
+        title: Modeling {COVID-19} care capacity in a major health system
+        year: '2021'
+        arxiv: https://www.medrxiv.org/content/early/2021/11/20/2021.11.18.21266407
+        app: https://forrestcrawford.shinyapps.io/covid19_icu/
+        repo: https://github.com/fcrawford/covid19_icu
+        journal: Submitted
+        author:
+        -   first: M
+            last: Erlendsdottir
+        -   first: S
+            last: Eshghi
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+    cai2021causal:
+        type: article
+        title: Causal identification of infectious disease intervention effects in
+            a clustered population
+        year: '2021'
+        journal: Submitted
+        arxiv: https://arxiv.org/abs/2105.03493
+        author:
+        -   first: X
+            last: Cai
+        -   first: E
+            last: Kenah
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+    lu2023geographic:
+        type: article
+        title: Geographic and temporal trends in fentanyl-involved deaths in {Connecticut},
+            2009-2019
+        year: '2023'
+        journal: Annals of Epidemiology
+        url: https://www.sciencedirect.com/science/article/pii/S1047279723000170
+        arxiv: https://www.medrxiv.org/content/10.1101/2022.07.26.22278052v1
+        free: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10163838/
+        volume: '79'
+        pages: 32--38
+        author:
+        -   first: H
+            last: Lu
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+        -   first: G
+            middle: S
+            last: Gonsalves
+        -   first: L
+            middle: E
+            last: Grau
+    sun2022dependence:
+        type: article
+        title: Dependence-Robust Confidence Intervals for Capture–Recapture Surveys
+        year: '2022'
+        arxiv: https://arxiv.org/abs/2008.00127
+        url: https://academic.oup.com/jssam/advance-article-abstract/doi/10.1093/jssam/smac031/6883977?redirectedFrom=fulltext
+        journal: Journal of Survey Statistics and Methodology
+        pages: smac031
+        author:
+        -   first: J
+            last: Sun
+        -   first: L
+            last: '{Van Baelen}'
+        -   first: E
+            last: Plettinckx
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+    erlendsdottir2022trials:
+        type: article
+        title: Randomized controlled trials of biomarker targets
+        year: '2022'
+        journal: Clinical Trials
+        url: https://journals.sagepub.com/doi/abs/10.1177/17407745221131820
+        free: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9974557/
+        volume: '20'
+        pages: 47-58
+        author:
+        -   first: M
+            last: Erlendsdottir
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+    josephs2022sample:
+        type: article
+        title: A sample size formula for network scale-up surveys
+        year: '2022'
+        arxiv: https://arxiv.org/abs/2111.09684
+        url: https://journals.sagepub.com/doi/10.1177/00491241221122576
+        github: https://github.com/njosephs/NSUM_sample_size
+        journal: Sociological Methods and Research
+        volume: In press
+        author:
+        -   first: N
+            last: Josephs
+        -   first: D
+            last: Feehan
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+    aroke2022evaluating:
+        type: article
+        title: Evaluating the Mediating Role of Recall of Intervention Knowledge in
+            the Relationship between a Peer-Driven Intervention and {HIV} Risk Behaviors
+            among People Who Inject Drugs
+        journal: AIDS \& Behavior
+        free: https://pubmed.ncbi.nlm.nih.gov/35932359/
+        url: https://link.springer.com/article/10.1007/s10461-022-03792-5
+        volume: '27'
+        pages: 578-590
+        year: '2023'
+        author:
+        -   first: H
+            last: Aroke
+        -   first: A
+            last: Buchanan
+        -   first: N
+            last: Katenka
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+        -   first: T
+            last: Lee
+        -   first: ME
+            last: Halloran
+        -   first: C
+            last: Latkin
+    eck2022randomization:
+        type: article
+        title: Randomization for the susceptibility effect of an infectious disease
+            intervention
+        year: '2022'
+        journal: Journal of Mathematical Biology
+        arxiv: https://arxiv.org/abs/1808.05593
+        url: https://link.springer.com/article/10.1007/s00285-022-01801-8
+        volume: '85'
+        author:
+        -   first: D
+            middle: J
+            last: Eck
+        -   first: O
+            last: Morozova
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+    orr2022characteristics:
+        type: article
+        title: Sociodemographic Characteristics and {HIV} Risk Behaviors of Native-Born
+            and Displaced {Syrian} Men and Transgender Women Who Have Sex with Men
+            in {Lebanon}
+        journal: AIDS \& Behavior
+        volume: '26'
+        pages: 4004-4011
+        year: '2022'
+        free: https://pubmed.ncbi.nlm.nih.gov/35672550/
+        url: https://link.springer.com/article/10.1007/s10461-022-03726-1
+        author:
+        -   first: L
+            middle: V
+            last: Orr
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+        -   first: K
+            last: Khoshnood
+        -   first: D
+            last: Khouri
+        -   first: F
+            middle: M
+            last: Fouad
+        -   first: D
+            middle: W
+            last: Seal
+        -   first: R
+            last: Heimer
+    tran2022attack:
+        type: article
+        title: '{SARS-CoV-2} attack rate and population immunity in southern {New
+            England, March 2020 - May 2021}'
+        journal: JAMA Network Open
+        url: https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2792721
+        arxiv: https://www.medrxiv.org/content/10.1101/2021.12.06.21267375v1
+        year: '2022'
+        author:
+        -   first: T
+            middle: Nguyen-Anh
+            last: Tran
+        -   first: N
+            middle: B
+            last: Wikle
+        -   first: F
+            last: Yang
+        -   first: H
+            last: Inam
+        -   first: S
+            last: Leighow
+        -   first: B
+            last: Gentilesco
+        -   first: P
+            last: Chan
+        -   first: E
+            last: Albert
+        -   first: E
+            middle: R
+            last: Strong
+        -   first: K
+            last: Brinda
+        -   first: J
+            middle: R
+            last: Pritchard
+        -   first: L
+            middle: C
+            last: Madoff
+        -   first: C
+            middle: M
+            last: Brown
+        -   first: W
+            middle: P
+            last: Hanage
+        -   first: E
+            middle: M
+            last: Hanks
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+        -   first: M
+            middle: F
+            last: Boni
+    prunas2022vaccination:
+        type: article
+        title: Vaccination with {BNT162b2} reduces transmission of {SARS-CoV}-2 to
+            household contacts in {Israel}
+        year: '2022'
+        arxiv: https://www.medrxiv.org/content/early/2021/07/16/2021.07.13.21260393
+        url: https://www.science.org/doi/10.1126/science.abl4292
+        journal: Science
+        volume: '375'
+        pages: 1151-1154
+        author:
+        -   first: O
+            last: Prunas
+        -   first: J
+            middle: L
+            last: Warren
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+        -   first: S
+            last: Gazit
+        -   first: T
+            last: Patalon
+        -   first: D
+            middle: M
+            last: Weinberger
+        -   first: V
+            middle: E
+            last: Pitzer
+    schultes2021covid:
+        type: article
+        title: '{COVID}-19 Testing and Case Rates and Social Contact Among Residential
+            College Students in {Connecticut} During the 2020-2021 Academic Year'
+        journal: JAMA Network Open
+        volume: '12'
+        pages: e2140602
+        url: https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2787433
+        arxiv: https://medrxiv.org/cgi/content/short/2021.08.11.21261732v1
+        year: '2021'
+        author:
+        -   first: O
+            last: Schultes
+        -   first: V
+            last: Clarke
+        -   first: A
+            middle: D
+            last: Paltiel
+        -   first: M
+            last: Cartter
+        -   first: L
+            last: Sosa
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+    zulli2021estimating:
+        type: article
+        title: Predicting daily {COVID}-19 case rates from {SARS-CoV}-2 RNA concentrations
+            across a diversity of wastewater catchments
+        journal: FEMS Microbes
+        volume: '2'
+        app: https://yalecovidwastewater.com/
+        url: https://academic.oup.com/femsmicrobes/article/doi/10.1093/femsmc/xtab022/6502350
+        year: '2021'
+        author:
+        -   first: A
+            last: Zulli
+        -   first: A
+            last: Pan
+        -   first: S
+            last: Bart
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+        -   first: E
+            last: Kaplan
+        -   first: M
+            last: Cartter
+        -   first: A
+            last: Ko
+        -   first: M
+            last: Sanchez
+        -   first: D
+            last: Cozens
+        -   first: D
+            last: Brackney
+        -   first: C
+            last: Brown
+        -   first: J
+            last: Peccia
+    crawford2022impact:
+        type: article
+        title: 'Impact of close interpersonal contact on {COVID-19} incidence: evidence
+            from one year of mobile device data'
+        year: '2022'
+        journal: Science Advances
+        volume: '8'
+        url: https://www.science.org/doi/10.1126/sciadv.abi5499
+        arxiv: https://www.medrxiv.org/content/10.1101/2021.03.10.21253282v1
+        note: (Winner of the Innovative Tradecraft Competition at the US Geospatial
+            Intelligence Foundation 2021 meeting)
+        author:
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+        -   first: S
+            last: Jones
+        -   first: M
+            last: Cartter
+        -   first: S
+            middle: G
+            last: Dean
+        -   first: J
+            middle: L
+            last: Warren
+        -   first: Zehang
+            last: Li
+        -   first: J
+            last: Barbieri
+        -   first: J
+            last: Campbell
+        -   first: P
+            last: Kenney
+        -   first: T
+            last: Valleau
+        -   first: O
+            last: Morozova
+    morozova2021one:
+        type: article
+        title: One year of modeling {COVID-19} transmission to support policymakers
+            in {Connecticut}
+        arxiv: https://www.medrxiv.org/content/10.1101/2020.06.12.20126391v3
+        url: https://www.nature.com/articles/s41598-021-99590-5
+        volume: '11'
+        pages: '20271'
+        repo: https://github.com/fcrawford/covid19_ct
+        journal: Scientific Reports
+        year: '2021'
+        author:
+        -   first: O
+            last: Morozova
+        -   first: Z
+            last: Li
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+    cai2021identification:
+        type: article
+        title: Identification of causal intervention effects under contagion
+        year: '2021'
+        arxiv: https://arxiv.org/abs/1912.04151
+        free: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8528235
+        url: https://www.degruyter.com/document/doi/10.1515/jci-2019-0033/html
+        journal: Journal of Causal Inference
+        volume: '9'
+        pages: 9-38
+        note: (Winner of best paper award, ASA Section on Statistics in Epidemiology)
+        author:
+        -   first: X
+            last: Cai
+        -   first: W
+            middle: W
+            last: Loh
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+    khoshnood2021reported:
+        type: article
+        title: Reported History and Correlates of Drug Overdose among People Who Inject
+            Drugs in {Lebanon}
+        year: '2021'
+        journal: Eastern Mediterranean Health Journal
+        volume: '27'
+        pages: 571-579
+        url: https://applications.emro.who.int/EMHJ/V27/06/1020-3397-2021-2706-571-579-eng.pdf?ua=1
+        author:
+        -   first: K
+            last: Khoshnood
+        -   first: FM
+            last: Shebl
+        -   first: D
+            last: Khoury
+        -   first: E
+            last: Aara
+        -   first: R
+            last: Barbour
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+        -   first: J
+            last: Mokhbat
+        -   first: A
+            last: Parpia
+        -   first: R
+            last: Heimer
+    kaplan2021repeat:
+        type: article
+        title: Repeat {SARS-CoV-2} Testing Models for Residential College Populations
+        journal: Health Care Management Science
+        app: https://jtwchang.shinyapps.io/testing/
+        arxiv: https://www.medrxiv.org/content/10.1101/2020.07.09.20149351v2
+        url: https://link.springer.com/article/10.1007/s10729-020-09526-0
+        volume: '24'
+        pages: 305–318
+        year: '2021'
+        author:
+        -   first: J
+            last: Chang
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+        -   first: EH
+            last: Kaplan
+    plettinckx2021how:
+        type: article
+        title: How many people injected drugs over the last 12 months in {Belgium}?
+            {Estimates} based on a capture-recapture and multiplier method
+        year: '2021'
+        journal: Drug and Alcohol Dependence
+        volume: '219'
+        pages: '108436'
+        url: https://www.sciencedirect.com/science/article/pii/S0376871620306013?via%3Dihub
+        free: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7856246/
+        author:
+        -   first: E
+            last: Plettinckx
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+        -   first: J
+            last: Antoine
+        -   first: L
+            last: Gremeaux
+        -   first: L
+            last: '{Van~Baelen}'
+    li2020sig:
+        type: article
+        title: Using {sigLasso} to optimize cancer mutation signatures jointly with
+            sampling likelihood
+        year: '2020'
+        journal: Nature Communications
+        volume: '11'
+        pages: 1--12
+        url: https://www.nature.com/articles/s41467-020-17388-x
+        arxiv: https://www.biorxiv.org/content/early/2018/07/10/366740
+        author:
+        -   first: S
+            last: Li
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+        -   first: M
+            last: Gerstein
+    weinberger2020estimation:
+        type: article
+        title: Estimation of excess deaths associated with the {COVID}-19 pandemic
+            in the {United States}, {March to May} 2020
+        journal: JAMA Internal Medicine
+        volume: '180'
+        number: '10'
+        pages: 1336--1344
+        year: '2020'
+        arxiv: https://www.medrxiv.org/content/10.1101/2020.04.15.20066431v1
+        url: https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2767980
+        publisher: American Medical Association
+        author:
+        -   first: D
+            middle: M
+            last: Weinberger
+        -   first: J
+            last: Chen
+        -   first: T
+            last: Cohen
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+        -   first: F
+            last: Mostashari
+        -   first: D
+            last: Olson
+        -   first: V
+            middle: E
+            last: Pitzer
+        -   first: N
+            middle: G
+            last: Reich
+        -   first: M
+            last: Russi
+        -   first: L
+            last: Simonsen
+        -   first: A
+            last: Watkins
+        -   first: C
+            last: Viboud
+    shirado2020collective:
+        type: article
+        title: Collective communication and behaviour in response to uncertain `Danger'
+            in network experiments
+        journal: Proceedings of the Royal Society A
+        volume: '476'
+        number: '2237'
+        pages: '20190685'
+        year: '2020'
+        publisher: The Royal Society Publishing
+        note: (Dr. Shirado received the 2020 Marvin B. Sussman Best Dissertation Award
+            in part for this paper)
+        url: https://royalsocietypublishing.org/doi/full/10.1098/rspa.2019.0685
+        author:
+        -   first: H
+            last: Shirado
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+        -   first: N
+            middle: A
+            last: Christakis
+    gonsalves2020how:
+        type: article
+        title: How Mike Pence Made Indiana’s HIV Outbreak Worse
+        journal: Politico
+        date: '2020-03-02'
+        year: '2020'
+        pubtype: Commentary
+        url: https://www.politico.com/news/magazine/2020/03/02/how-mike-pence-made-indianas-hiv-outbreak-worse-118648
+        author:
+        -   first: G
+            middle: S
+            last: Gonsalves
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+    dean2020creating:
+        type: article
+        title: Creating a Framework for Conducting Randomized Clinical Trials during
+            Disease Outbreaks
+        journal: New England Journal of Medicine
+        volume: '382'
+        number: '14'
+        pages: 1366-1369
+        year: '2020'
+        doi: 10.1056/NEJMsb1905390
+        url: https://doi.org/10.1056/NEJMsb1905390
+        author:
+        -   first: N
+            middle: E
+            last: Dean
+        -   first: P
+            last: Gsell
+        -   first: R
+            last: Brookmeyer
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+        -   first: C
+            middle: A
+            last: Donnelly
+        -   first: S
+            middle: S
+            last: Ellenberg
+        -   first: T
+            middle: R
+            last: Fleming
+        -   first: M
+            middle: E
+            last: Halloran
+        -   first: P
+            last: Horby
+        -   first: T
+            last: Jaki
+        -   first: P
+            middle: R
+            last: Krause
+        -   first: I
+            middle: M
+            last: Longini
+        -   first: S
+            last: Mulangu
+        -   first: J
+            last: Muyembe-Tamfum
+        -   first: M
+            middle: C
+            last: Nason
+        -   first: P
+            middle: G
+            last: Smith
+        -   first: R
+            last: Wang
+        -   first: A
+            middle: M
+            last: Henao-Restrepo
+        -   first: V
+            last: De Gruttola
+    li2019suspected:
+        type: article
+        title: 'Suspected heroin-related overdoses incidents in {Cincinnati}, {Ohio}:
+            A spatiotemporal analysis'
+        journal: PLoS Medicine
+        volume: '16'
+        year: '2019'
+        pages: e1002956
+        url: https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002956
+        free: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6850525/
+        author:
+        -   first: Z
+            middle: R
+            last: Li
+        -   first: E
+            last: Xie
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+        -   first: J
+            middle: L
+            last: Warren
+        -   first: K
+            last: McConnell
+        -   first: J
+            middle: T
+            last: Copple
+        -   first: T
+            last: Johnson
+        -   first: G
+            middle: S
+            last: Gonsalves
+    cheng2020estimating:
+        type: article
+        title: 'Estimating the size of a hidden finite set: Large-sample behavior
+            of estimators'
+        year: '2020'
+        journal: Statistics Surveys
+        volume: '14'
+        pages: 1-31
+        arxiv: https://arxiv.org/abs/1808.04753
+        url: https://projecteuclid.org/euclid.ssu/1578106918
+        author:
+        -   first: S
+            last: Cheng
+        -   first: D
+            middle: J
+            last: Eck
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+    morozova2020cost:
+        type: article
+        title: 'Cost-effectiveness of expanding the capacity of opioid agonist treatment
+            in {Ukraine}: Dynamic modeling analysis'
+        journal: Addiction
+        volume: '115'
+        pages: 437--450
+        year: '2020'
+        url: https://onlinelibrary.wiley.com/doi/10.1111/add.14797
+        free: https://pubmed.ncbi.nlm.nih.gov/31478285/
+        repo: https://github.com/olyamorozova/oat-capacity
+        author:
+        -   first: O
+            last: Morozova
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+        -   first: T
+            last: Cohen
+        -   first: A
+            middle: D
+            last: Paltiel
+        -   first: F
+            middle: L
+            last: Altice
+    orr2021violence:
+        type: article
+        title: 'Violence and discrimination against men who have sex with men in {Lebanon}:
+            the role of international displacement and migration'
+        year: '2021'
+        volume: '36'
+        pages: 10267–10284
+        journal: Journal of Interpersonal Violence
+        url: https://journals.sagepub.com/doi/10.1177/0886260519884684
+        free: https://pubmed.ncbi.nlm.nih.gov/31658847/
+        author:
+        -   first: L
+            last: Orr
+        -   first: F
+            last: Shebl
+        -   first: R
+            last: Heimer
+        -   first: K
+            last: Khoshnood
+        -   first: R
+            last: Barbour
+        -   first: D
+            last: Khouri
+        -   first: E
+            last: Aaraj
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+    crawford2020estimating:
+        type: article
+        title: 'Transmission modeling with regression adjustment for analyzing household-based
+            studies of infectious disease: application to tuberculosis'
+        journal: Epidemiology
+        volume: '31'
+        pages: 238--247
+        year: '2020'
+        url: https://journals.lww.com/epidem/fulltext/10.1097/EDE.0000000000001143
+        free: https://pubmed.ncbi.nlm.nih.gov/31764276/
+        note: (Runner-up, 2020 Rothman Prize, Epidemiology)
+        author:
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+        -   first: F
+            middle: M
+            last: Marx
+        -   first: J
+            last: Zelner
+        -   first: T
+            last: Cohen
+    morozova2019divergent:
+        type: article
+        title: Divergent estimates of HIV incidence among people who inject drugs
+            in Ukraine
+        year: '2019'
+        journal: International Journal of Drug Policy
+        volume: '73'
+        pages: 156-162
+        free: https://pubmed.ncbi.nlm.nih.gov/31405731/
+        url: https://www.sciencedirect.com/science/article/pii/S0955395919302014
+        author:
+        -   first: O
+            last: Morozova
+        -   first: R
+            middle: E
+            last: Booth
+        -   first: S
+            last: Dvoriak
+        -   first: K
+            last: Dumchev
+        -   first: Y
+            last: Sazonova
+        -   first: T
+            last: Salyuk
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+    crawford2019interpretation:
+        type: article
+        title: Interpretation of the individual effect under treatment spillover
+        year: '2019'
+        journal: American Journal of Epidemiology
+        volume: '188'
+        issue: '8'
+        pages: 1407-1409
+        url: https://academic.oup.com/aje/article-abstract/188/8/1407/5490057
+        free: https://pubmed.ncbi.nlm.nih.gov/31094425/
+        arxiv: https://arxiv.org/abs/1902.01377
+        author:
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+        -   first: O
+            last: Morozova
+        -   first: A
+            middle: L
+            last: Buchanan
+        -   first: D
+            last: Spiegelman
+    zeng2019recruitment:
+        type: article
+        title: Empirical evidence of recruitment bias in a network study of people
+            who inject drugs
+        year: '2019'
+        journal: American Journal of Drug and Alcohol Abuse
+        volume: '45'
+        issue: '5'
+        pages: 460-469
+        free: https://pubmed.ncbi.nlm.nih.gov/30896982/
+        url: https://www.tandfonline.com/doi/full/10.1080/00952990.2019.1584203
+        author:
+        -   first: L
+            last: Zeng
+        -   first: J
+            last: Li
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+    gonsalves2018dynamics:
+        type: article
+        title: 'Dynamics of the {HIV} outbreak and response in {Scott County, Indiana},
+            2011-2015: a modelling study'
+        year: '2018'
+        journal: The Lancet HIV
+        volume: '5'
+        issue: '10'
+        pages: 569-577
+        url: https://www.sciencedirect.com/science/article/pii/S2352301818301760?via%3Dihub
+        free: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6192548/
+        app: https://forrestcrawford.shinyapps.io/indiana-hiv
+        repo: https://github.com/fcrawford/indiana-hiv
+        author:
+        -   first: G
+            middle: S
+            last: Gonsalves
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+    gonsalves2018lessons:
+        type: article
+        title: Lessons learned from the {Indiana} {HIV} outbreak
+        year: '2018'
+        journal: HIV Specialist
+        volume: '10'
+        number: '4'
+        pubtype: Commentary
+        url: https://mydigitalpublication.com/publication/?i=555011
+        author:
+        -   first: G
+            middle: S
+            last: Gonsalves
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+    aronow2018confidence:
+        type: article
+        title: Confidence intervals for linear unbiased estimators under constrained
+            dependence
+        journal: Electronic Journal of Statistics
+        volume: '12'
+        number: '2'
+        pages: 2238-2252
+        year: '2018'
+        url: https://projecteuclid.org/euclid.ejs/1532333004
+        repo: https://github.com/jrzubizarreta/depinf
+        author:
+        -   first: P
+            middle: M
+            last: Aronow
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+        -   first: J
+            middle: R
+            last: Zubizarreta
+    wu2018diffusion:
+        type: article
+        title: Exposure, hazard, and survival analysis of diffusion on social networks
+        year: '2018'
+        journal: Statistics in Medicine
+        volume: '37'
+        issue: '17'
+        pages: 2561--2585
+        url: https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.7658
+        free: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6933552/
+        note: (Winner of 2017 WNAR Outstanding Written Paper Award)
+        author:
+        -   first: J
+            last: Wu
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+        -   first: D
+            middle: A
+            last: Kim
+        -   first: D
+            last: Stafford
+        -   first: N
+            middle: A
+            last: Christakis
+    liu2018estimating:
+        type: article
+        title: Estimating dose-specific cell division and apoptosis rates from chemo-sensitivity
+            experiments
+        year: '2018'
+        journal: Scientific Reports
+        volume: '8'
+        number: '2705'
+        pages: 1--8
+        url: https://www.nature.com/articles/s41598-018-21017-5
+        repo: https://github.com/YiyiLiu1/bdChemo
+        free: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5807362/
+        author:
+        -   first: Y
+            last: Liu
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+    ho2018direct:
+        type: article
+        title: Direct likelihood-based inference for discretely observed stochastic
+            compartmental models of infectious disease
+        year: '2018'
+        url: https://projecteuclid.org/euclid.aoas/1536652983
+        journal: Annals of Applied Statistics
+        volume: '12'
+        number: '3'
+        pages: 1993--2021
+        arxiv: https://arxiv.org/abs/1608.06769
+        repo: https://github.com/msuchard/MultiBD
+        author:
+        -   first: L
+            middle: S
+            last: Ho
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+        -   first: M
+            middle: A
+            last: Suchard
+    morozova2018risk:
+        type: article
+        title: Risk ratios for contagious outcomes
+        year: '2018'
+        journal: Journal of the Royal Society Interface
+        volume: '15'
+        issue: '138'
+        pages: '20170696'
+        url: http://rsif.royalsocietypublishing.org/content/15/138/20170696
+        arxiv: https://arxiv.org/abs/1707.05884
+        free: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5805970/
+        author:
+        -   first: O
+            last: Morozova
+        -   first: T
+            last: Cohen
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+    crawford2018computational:
+        type: article
+        title: Computational methods for birth-death processes
+        year: '2018'
+        journal: Wiley Interdisciplinary Reviews Computational Statistics
+        volume: '10'
+        pages: e1423
+        repo: https://github.com/msuchard/MultiBD
+        url: http://onlinelibrary.wiley.com/doi/10.1002/wics.1423/full
+        free: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6014701/
+        author:
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+        -   first: L
+            middle: S
+            last: Ho
+        -   first: M
+            middle: A
+            last: Suchard
+    crawford2018identification:
+        type: article
+        title: Identification of homophily and preferential recruitment in respondent-driven
+            sampling
+        year: '2018'
+        journal: American Journal of Epidemiology
+        volume: '187'
+        issue: '1'
+        pages: 153-160
+        url: https://academic.oup.com/aje/article/187/1/153/3865631
+        arxiv: https://arxiv.org/abs/1511.05397
+        free: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5860647/
+        author:
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+        -   first: P
+            middle: M
+            last: Aronow
+        -   first: L
+            last: Zeng
+        -   first: J
+            last: Li
+    wu2017using:
+        type: article
+        title: Using data from respondent-driven sampling to estimate the number of
+            people who inject drugs, with application to the {K}ohtla-{J}\"arve region
+            of {Estonia}
+        year: '2017'
+        journal: PLoS One
+        volume: '12'
+        number: '11'
+        pages: e0185711
+        url: http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0185711
+        free: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5667832/
+        author:
+        -   first: J
+            last: Wu
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+        -   first: M
+            last: Raag
+        -   first: R
+            last: Heimer
+        -   first: A
+            last: Uusk\"ula
+    pachankis2018burden:
+        type: article
+        title: 'The Burden of Stigma on Health and Wellbeing: A Taxonomy of Concealment,
+            Course, Disruptiveness, Aesthetics, Origin, and Peril across 93 Stigmas'
+        year: '2018'
+        journal: Personality and Social Psychology Bulletin
+        volume: '44'
+        issue: '4'
+        pages: 451-474
+        url: https://journals.sagepub.com/doi/full/10.1177/0146167217741313
+        free: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5837924/
+        author:
+        -   first: J
+            middle: E
+            last: Pachankis
+        -   first: M
+            middle: L
+            last: Hatzenbuehler
+        -   first: K
+            last: Wang
+        -   first: C
+            middle: L
+            last: Burton
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+        -   first: J
+            middle: C
+            last: Phelan
+        -   first: B
+            middle: G
+            last: Link
+    gunabushanam2018computer:
+        type: article
+        title: Computer-assisted detection of tardus parvus waveforms on {Doppler}
+            ultrasound
+        journal: Ultrasound
+        volume: '26'
+        number: '2'
+        pages: 81--92
+        year: '2018'
+        url: https://journals.sagepub.com/doi/abs/10.1177/1742271X17747135
+        free: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6042304/
+        author:
+        -   first: G
+            last: Gunabushanam
+        -   first: J
+            middle: D
+            last: Millet
+        -   first: E
+            last: Stilp
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+        -   first: R
+            middle: L
+            last: McNamara
+        -   first: L
+            middle: M
+            last: Scoutt
+    heimer2017hiv:
+        type: article
+        title: '{HIV} Risk, Prevalence, and Access to Care among Men Who Have Sex
+            with Men in {Lebanon}'
+        year: '2017'
+        journal: AIDS Research and Human Retroviruses
+        volume: '33'
+        number: '11'
+        pages: 1149--1154
+        url: http://online.liebertpub.com/doi/abs/10.1089/AID.2016.0326
+        free: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6913106/
+        author:
+        -   first: R
+            last: Heimer
+        -   first: R
+            last: Barbour
+        -   first: D
+            last: Khoury
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+        -   first: F
+            last: Shebl
+        -   first: E
+            last: Aaraj
+        -   first: K
+            last: Khoshnood
+    ho2018birth:
+        type: article
+        title: Birth/birth-death processes and their computable transition probabilities
+            with biological applications
+        year: '2018'
+        journal: Journal of Mathematical Biology
+        volume: '76'
+        issue: '4'
+        pages: 911-944
+        url: https://link.springer.com/article/10.1007/s00285-017-1160-3
+        arxiv: https://arxiv.org/abs/1603.03819
+        repo: https://github.com/msuchard/MultiBD
+        free: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5783825/
+        author:
+        -   first: L
+            middle: S
+            last: Ho
+        -   first: J
+            last: Xu
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+        -   first: V
+            middle: N
+            last: Minin
+        -   first: M
+            middle: A
+            last: Suchard
+    gonsalves2018adaptive:
+        type: article
+        title: An Adaptive Approach to Locating Mobile {HIV} Testing Services
+        journal: Medical Decision Making
+        year: '2018'
+        volume: '38'
+        number: '2'
+        pages: 262-272
+        url: http://journals.sagepub.com/doi/full/10.1177/0272989X17716431
+        free: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5748375/
+        author:
+        -   first: G
+            middle: S
+            last: Gonsalves
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+        -   first: P
+            middle: D
+            last: Cleary
+        -   first: E
+            middle: H
+            last: Kaplan
+        -   first: A
+            middle: D
+            last: Paltiel
+    chen2017submodular:
+        type: article
+        title: Submodular Variational Inference for Network Reconstruction
+        year: '2017'
+        journal: Proceedings of the Conference on Uncertainty in Artificial Intelligence
+            (UAI)
+        url: http://auai.org/uai2017/proceedings/papers/45.pdf
+        arxiv: https://arxiv.org/abs/1610.08473
+        author:
+        -   first: L
+            last: Chen
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+        -   first: A
+            last: Karbasi
+    crawford2018hidden:
+        type: article
+        title: 'Hidden population size estimation from respondent-driven sampling:
+            a network approach'
+        year: '2018'
+        journal: Journal of the American Statistical Association
+        volume: '113'
+        pages: 755-766
+        url: http://amstat.tandfonline.com/doi/full/10.1080/01621459.2017.1285775
+        arxiv: https://arxiv.org/abs/1504.08349
+        free: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6392194/
+        author:
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+        -   first: J
+            last: Wu
+        -   first: R
+            last: Heimer
+    culbert2017predictors:
+        type: article
+        title: Predictors of Mortality within Prison and after Release among Persons
+            Living with {HIV} in {Indonesia}
+        journal: Research and Reports in Tropical Medicine
+        year: '2017'
+        volume: '8'
+        pages: 25-35
+        url: https://www.dovepress.com/articles.php?article_id=31763
+        free: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5724785/
+        author:
+        -   first: G
+            middle: J
+            last: Culbert
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+        -   first: A
+            last: Murni
+        -   first: A
+            last: Waluyo
+        -   first: A
+            middle: R
+            last: Bazazi
+        -   first: J
+            last: Sahar
+        -   first: F
+            middle: L
+            last: Altice
+    antillon2017burden:
+        type: article
+        title: 'The burden of typhoid fever in low- and middle-income countries: a
+            meta-regression approach'
+        year: '2017'
+        journal: PLoS Neglected Tropical Diseases
+        volume: '11'
+        number: '2'
+        pages: e0005376
+        url: http://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0005376
+        free: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5344533/
+        author:
+        -   first: M
+            last: Antill\'on
+        -   first: J
+            middle: L
+            last: Warren
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+        -   first: D
+            middle: M
+            last: Weinberger
+        -   first: E
+            last: K\"uru\"m
+        -   first: G
+            middle: D
+            last: Pak
+        -   first: J
+            middle: K
+            last: Park
+        -   first: F
+            last: Marks
+        -   first: V
+            middle: E
+            last: Pitzer
+    crawford2016graphical:
+        type: article
+        title: The graphical structure of respondent-driven sampling
+        year: '2016'
+        volume: '46'
+        journal: Sociological Methodology
+        pages: 187-211
+        url: http://smx.sagepub.com/content/46/1/187
+        arxiv: https://arxiv.org/abs/1406.0721
+        free: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6788810/
+        author:
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+    kunkel2016benefits:
+        type: article
+        title: Benefits of continuous isoniazid preventive therapy may outweigh resistance
+            risks in a declining {TB/HIV} co-epidemic
+        year: '2016'
+        journal: AIDS
+        volume: '30'
+        pages: 2715--2723
+        url: http://journals.lww.com/aidsonline/Abstract/publishahead/Benefits_of_continuous_isoniazid_preventive.97697.aspx
+        free: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5089846/
+        author:
+        -   first: A
+            last: Kunkel
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+        -   first: J
+            last: Shepherd
+        -   first: T
+            last: Cohen
+    chen2015estimating:
+        type: article
+        title: Estimating the size of a large network and its communities from a random
+            sample
+        year: '2016'
+        journal: Advances in Neural Information Processing Systems
+        volume: '29'
+        url: http://papers.nips.cc/paper/6229-estimating-the-size-of-a-large-network-and-its-communities-from-a-random-sample
+        author:
+        -   first: L
+            last: Chen
+        -   first: A
+            last: Karbasi
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+    crawford2016discussion:
+        type: article
+        title: Discussion of ``{C}o-authorship and citation networks for statisticians''
+            by {Pengsheng Ji and Jiashun Jin}
+        journal: Annals of Applied Statistics
+        volume: '10'
+        year: '2016'
+        pubtype: Commentary
+        url: http://projecteuclid.org/euclid.aoas/1483606841
+        author:
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+    pitzer2015did:
+        type: article
+        title: Did Large-Scale Vaccination Drive Changes in the Circulating Rotavirus
+            Population in {Belgium}?
+        journal: Scientific Reports
+        volume: '5'
+        pages: '18585'
+        year: '2015'
+        url: http://www.nature.com/articles/srep18585
+        free: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4685644/
+        author:
+        -   first: V
+            last: Pitzer
+        -   first: J
+            last: Bilcke
+        -   first: E
+            last: Heylen
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+        -   first: M
+            middle: Van
+            last: Ranst
+        -   first: M
+            last: Zeller
+        -   first: J
+            last: Matthijnssens
+    chen2015seeing:
+        type: inproceedings
+        title: 'Seeing the Unseen Network: Inferring Hidden Social Ties from Respondent-Driven
+            Sampling'
+        booktitle: Proceedings of The 30th AAAI Conference on Artificial Intelligence
+            and the 28th Innovative Applications of Artificial Intelligence Conference
+        year: '2015'
+        volume: '30'
+        url: http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12155
+        author:
+        -   first: L
+            last: Chen
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+        -   first: A
+            last: Karbasi
+    bazazi2018hiv:
+        type: article
+        title: '{HIV} testing and awareness of HIV status among people who inject
+            drugs in {Greater Kuala Lumpur, Malaysia}'
+        year: '2018'
+        journal: AIDS Care
+        volume: '30'
+        issue: '1'
+        pages: 59-64
+        url: https://www.tandfonline.com/doi/abs/10.1080/09540121.2017.1363852
+        free: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5699941/
+        author:
+        -   first: A
+            middle: R
+            last: Bazazi
+        -   first: A
+            last: Vijay
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+        -   first: R
+            last: Heimer
+        -   first: A
+            last: Kamarulzaman
+        -   first: F
+            middle: L
+            last: Altice
+    bazazi2015hiv:
+        type: article
+        title: '{HIV} Prevalence Among People Who Inject Drugs in {Greater Kuala Lumpur}
+            Recruited Using Respondent-Driven Sampling'
+        year: '2015'
+        volume: '19'
+        pages: 2347-2357
+        journal: AIDS \& Behavior
+        url: http://link.springer.com/article/10.1007/s10461-015-1191-y
+        free: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4743744/
+        author:
+        -   first: A
+            middle: R
+            last: Bazazi
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+        -   first: A
+            last: Zelenev
+        -   first: R
+            last: Heimer
+        -   first: A
+            last: Kamarulzaman
+        -   first: F
+            middle: L
+            last: Altice
+    crawford2015coupling:
+        type: article
+        title: Coupling bounds for approximating birth-death processes by truncation
+        year: '2016'
+        journal: Statistics and Probability Letters
+        volume: '109'
+        pages: 30-38
+        url: http://www.sciencedirect.com/science/article/pii/S0167715215003648
+        free: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4662656/
+        author:
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+        -   first: TC
+            last: Stutz
+        -   first: K
+            last: Lange
+    crawford2015hidden2:
+        type: inproceedings
+        booktitle: 18th International Conference on Information Fusion
+        title: Hidden network reconstruction from information diffusion
+        year: '2015'
+        pages: 180-185
+        month: July
+        url: http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7266560
+        author:
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+    aronow2015combining:
+        type: article
+        title: Combining list experiment and direct question estimates of sensitive
+            behavior prevalence
+        year: '2015'
+        journal: Journal of Survey Statistics and Methodology
+        volume: '3'
+        pages: 43-66
+        url: http://jssam.oxfordjournals.org/content/3/1/43
+        free: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5589210/
+        arxiv: https://arxiv.org/abs/1312.1268
+        author:
+        -   first: PM
+            last: Aronow
+        -   first: A
+            last: Coppock
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+        -   first: DP
+            last: Green
+    crawford2015sex:
+        type: article
+        title: 'Sex, lies, and self-reported counts: {Bayesian} mixture models for
+            longitudinal heaped count data via birth-death processes'
+        year: '2015'
+        journal: Annals of Applied Statistics
+        volume: '9'
+        number: '2'
+        pages: 572-596
+        url: http://projecteuclid.org/euclid.aoas/1437397102
+        free: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4617556/
+        arxiv: https://arxiv.org/abs/1405.4265
+        author:
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+        -   first: RE
+            last: Weiss
+        -   first: MA
+            last: Suchard
+    quintero2015evolutionary:
+        type: article
+        title: Historical Biogeography Using Species Geographical Ranges
+        year: '2015'
+        journal: Systematic Biology
+        volume: '64'
+        number: '6'
+        pages: 1059--1073
+        url: http://sysbio.oxfordjournals.org/content/early/2015/10/07/sysbio.syv057.full.pdf+html
+        free: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4838013/
+        author:
+        -   first: I
+            last: Quintero
+        -   first: P
+            last: Keil
+        -   first: W
+            last: Jetz
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+    aronow2015nonparametric:
+        type: article
+        title: Nonparametric identification for respondent-driven sampling
+        year: '2015'
+        journal: Statistics and Probability Letters
+        volume: '106'
+        pages: 100-102
+        url: http://www.sciencedirect.com/science/article/pii/S0167715215002357
+        arxiv: https://arxiv.org/abs/1504.03574
+        free: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5963474/
+        author:
+        -   first: PM
+            last: Aronow
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+    crawford2015counting:
+        type: article
+        title: Markov counting models for correlated binary responses
+        year: '2015'
+        journal: Biostatistics
+        volume: '3'
+        pages: 427-440
+        url: http://biostatistics.oxfordjournals.org/content/16/3/427
+        arxiv: https://arxiv.org/abs/1305.1656
+        free: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5963474/
+        author:
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+        -   first: D
+            last: Zelterman
+    crawford2014mulder:
+        type: article
+        title: On the distribution of interspecies correlation for {Markov} mutation
+            models on {Yule} trees
+        volume: '364'
+        pages: 275--283
+        journal: Journal of Theoretical Biology
+        year: '2015'
+        url: http://www.sciencedirect.com/science/article/pii/S0022519314005554
+        free: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4256168/
+        author:
+        -   first: WH
+            last: Mulder
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+    braun2015obesity:
+        type: article
+        title: Obesity not associated with severity among hospitalized adults with
+            seasonal influenza virus infection
+        volume: '43'
+        pages: 569--575
+        year: '2015'
+        journal: Infection
+        url: http://dx.doi.org/10.1007/s15010-015-0802-x
+        free: https://pubmed.ncbi.nlm.nih.gov/26148927/
+        author:
+        -   first: ES
+            last: Braun
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+        -   first: MM
+            last: Desai
+        -   first: J
+            last: Meek
+        -   first: PD
+            last: Kirley
+        -   first: L
+            last: Miller
+        -   first: EJ
+            last: Anderson
+        -   first: O
+            last: Oni
+        -   first: P
+            last: Ryan
+        -   first: R
+            last: Lynfield
+        -   first: M
+            last: Bargsten
+        -   first: NM
+            last: Bennett
+        -   first: KL
+            last: Lung
+        -   first: A
+            last: Thomas
+        -   first: E
+            last: Mermel
+        -   first: M
+            last: Lindegren
+        -   first: W
+            last: Schaffner
+        -   first: A
+            last: Price
+        -   first: SS
+            last: Chaves
+    pybus2011unifying:
+        type: article
+        title: Unifying the spatial epidemiology and evolution of emerging epidemics
+        journal: Proceedings of the National Academy of Sciences USA
+        volume: '109'
+        number: '37'
+        pages: 15066-15071
+        year: '2012'
+        url: http://www.pnas.org/content/109/37/15066.short
+        free: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3443149/
+        author:
+        -   first: OG
+            last: Pybus
+        -   first: MA
+            last: Suchard
+        -   first: P
+            last: Lemey
+        -   first: F
+            last: Bernadin
+        -   first: A
+            last: Rambaut
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+        -   first: RR
+            last: Gray
+        -   first: N
+            last: Arinaminpathy
+        -   first: S
+            last: Stramer
+        -   first: MP
+            last: Busch
+        -   first: E
+            last: Delwart
+    saraswathy2008evaluation:
+        type: article
+        title: Evaluation of {MR} markers that predict survival in patients with newly
+            diagnosed {GBM} prior to adjuvant therapy
+        journal: Journal of Neuro-Oncology
+        year: '2008'
+        volume: '91'
+        number: '1'
+        pages: 69-81
+        url: https://link.springer.com/article/10.1007%2Fs11060-008-9685-3
+        free: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3022437/
+        author:
+        -   first: S
+            last: Saraswathy
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+        -   first: KL
+            last: Lamborn
+        -   first: A
+            last: Pirzkall
+        -   first: S
+            last: Chang
+        -   first: S
+            last: Cha
+        -   first: SJ
+            last: Nelson
+    cha2005differentiation:
+        type: article
+        title: Differentiation of low-grade oligodendrogliomas from low-grade astrocytomas
+            by using quantitative blood-volume measurements derived from dynamic susceptibility
+            contrast-enhanced {MR} imaging
+        journal: American Journal of Neuroradiology
+        year: '2005'
+        volume: '26'
+        number: '2'
+        pages: 266-273
+        url: http://www.ajnr.org/content/26/2/266.abstract
+        free: http://www.ajnr.org/content/26/2/266.long
+        author:
+        -   first: S
+            last: Cha
+        -   first: T
+            last: Tihan
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+        -   first: NJ
+            last: Fischbein
+        -   first: S
+            last: Chang
+        -   first: A
+            last: Bollen
+        -   first: SJ
+            last: Nelson
+        -   first: M
+            last: Prados
+        -   first: MS
+            last: Berger
+        -   first: WP
+            last: Dillon
+    crane2006grid:
+        type: article
+        title: Grid enabled magnetic resonance scanners for near real-time medical
+            image processing
+        journal: Journal of Parallel and Distributed Computing
+        year: '2006'
+        volume: '66'
+        pages: 1524-1533
+        url: http://dl.acm.org/citation.cfm?id=1222092
+        author:
+        -   first: JC
+            last: Crane
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+        -   first: SJ
+            last: Nelson
+    crawford2012diversity:
+        type: article
+        title: Diversity, disparity, and evolutionary rate estimation for unresolved
+            {Yule} trees
+        volume: '62'
+        pages: 439-455
+        journal: Systematic Biology
+        year: '2013'
+        url: http://sysbio.oxfordjournals.org/content/62/3/439.full
+        free: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3622899/
+        author:
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+        -   first: MA
+            last: Suchard
+    crawford2008relationship:
+        type: article
+        title: Relationship of pre-surgery metabolic and physiological {MR} imaging
+            parameters to survival for patients with untreated {GBM}
+        journal: Journal of Neuro-Oncology
+        year: '2008'
+        volume: '91'
+        number: '3'
+        pages: 337-351
+        url: https://link.springer.com/article/10.1007%2Fs11060-008-9719-x
+        free: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3022444/
+        author:
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+        -   first: IS
+            last: Khayal
+        -   first: C
+            last: McGue
+        -   first: S
+            last: Saraswathy
+        -   first: A
+            last: Pirzkall
+        -   first: S
+            last: Cha
+        -   first: KR
+            last: Lamborn
+        -   first: S
+            last: Chang
+        -   first: MS
+            last: Berger
+        -   first: SJ
+            last: Nelson
+    crawford2012transition:
+        type: article
+        title: Transition probabilities for general birth-death processes with applications
+            in ecology, genetics, and evolution
+        year: '2012'
+        journal: Journal of Mathematical Biology
+        volume: '65'
+        issue: '3'
+        pages: 553-580
+        url: http://www.springerlink.com/content/j23k251q22u25561/
+        arxiv: https://arxiv.org/abs/1111.6644
+        free: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3310285/
+        author:
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+        -   first: MA
+            last: Suchard
+    crawford2014estimation:
+        type: article
+        title: Estimation for General Birth-Death Processes
+        journal: Journal of the American Statistical Association
+        volume: '109'
+        number: '506'
+        pages: 730-747
+        year: '2014'
+        url: http://www.tandfonline.com/doi/full/10.1080/01621459.2013.866565
+        arxiv: https://arxiv.org/abs/1111.4954
+        free: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4196218/
+        author:
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+        -   first: VN
+            last: Minin
+        -   first: MA
+            last: Suchard
+    khayal2008relationship:
+        type: article
+        title: Relationship between choline and apparent diffusion coefficient in
+            patients with gliomas
+        journal: Journal of Magnetic Resonance Imaging
+        year: '2008'
+        volume: '27'
+        number: '4'
+        pages: 718-725
+        url: https://onlinelibrary.wiley.com/doi/full/10.1002/jmri.21288
+        free: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3030277/
+        author:
+        -   first: IS
+            last: Khayal
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+        -   first: S
+            last: Saraswathy
+        -   first: KR
+            last: Lamborn
+        -   first: SM
+            last: Chang
+        -   first: S
+            last: Cha
+        -   first: TR
+            last: McKnight
+        -   first: SJ
+            last: Nelson
+    li2005relationship:
+        type: article
+        title: Relationship of {MR}-derived lactate, mobile lipids, and relative blood
+            volume for gliomas in vivo
+        journal: American Journal of Neuroradiology
+        year: '2005'
+        volume: '26'
+        number: '4'
+        pages: 760-769
+        url: http://www.ajnr.org/content/26/4/760.abstract
+        free: http://www.ajnr.org/content/26/4/760.long
+        author:
+        -   first: X
+            last: Li
+        -   first: DB
+            last: Vigneron
+        -   first: S
+            last: Cha
+        -   first: EE
+            last: Graves
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+        -   first: SM
+            last: Chang
+        -   first: SJ
+            last: Nelson

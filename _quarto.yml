@@ -1,0 +1,51 @@
+project:
+  type: website
+  title: "Forrest W. Crawford"
+
+
+website:
+  title: "Forrest W. Crawford"
+  description: "Personal website of Forrest W. Crawford"
+  favicon: "images/favicon.png"
+  page-footer: 
+    left: "&copy; {{< var currentyear >}} Forrest W. Crawford " 
+    right: "[Colophon](/colophon)"
+  page-navigation: false
+
+  twitter-card: 
+    creator: "@fcraw4d"
+  sidebar: 
+    logo: "images/me3.jpeg"
+    pinned: true
+    alignment: "center"
+    border: false
+    style: "docked"
+    footer: "[{{< fa brands linkedin size=xl title=\"LinkedIn\">}}](https://www.linkedin.com/in/forrest-w-crawford/) 
+             [{{< ai google-scholar size=xl title=\"Google Scholar\">}}](https://scholar.google.com/citations?user=b7djhCMAAAAJ&hl=en) 
+             [{{< fa brands github size=xl title=\"Github\">}}](https://github.com/fcrawford)" 
+  navbar:
+    foreground: "#444"
+    left:
+      - href: papers
+        text: Papers
+      - href: resume
+        text: Resume
+      - href: consulting
+        text: Consulting
+      - href: advising
+        text: Advising
+      - href: contact
+        text: Contact
+
+format:
+  html:
+    theme: [journal, mytheme.scss]
+    fontsize: "12pt"
+    fontcolor: "#444"
+    linkcolor: "#777"
+    backgroundcolor: "white"
+    css: styles.css
+    toc: false
+
+
+ 

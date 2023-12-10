@@ -1,0 +1,10 @@
+---
+title: Publications, Reports, and Preprints
+listing:
+  - id: publist
+    template: ../templates/publications.ejs
+    contents: ../bibliography/me.yaml
+---
+
+
+

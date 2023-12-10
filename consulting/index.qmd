@@ -1,0 +1,17 @@
+---
+title: Consulting
+---
+
+I occasionally consult for private sector and government clients to help solve challenging inferential problems in biomedical science, epidemiology, human rights, and national security. Examples:
+
+- Outbreak forecasting / analytics
+- Detecting election interference
+- Designing vaccine trials
+- Estimating rates of modern slavery / human trafficking
+- Optimizing diagnostic tests
+- Causal evaluation of intervention programs
+
+[Contact me](/contact) for more information and rates. 
+
+
+

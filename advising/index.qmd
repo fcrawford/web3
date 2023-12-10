@@ -1,0 +1,50 @@
+---
+title: Career Advising
+---
+
+I offer free career advising to students, early-career researchers, and mid-career professionals whose interests, experiences, or ambitions line up with mine. 
+
+If you're interested in speaking with me, please [get in touch](/contact). In your message, please briefly describe:
+
+- your training and work experience, academic or otherwise
+- what you're interested in doing in the future 
+- what decision or career strategy issue I can help you with. 
+
+Please also include a link to your resume/CV. 
+
+If I think I can help, I'll respond to schedule a time to talk. 
+
+
+### Caveats 
+
+- I can't advise in areas outside my expertise
+- My time is limited and I cannot respond to every request
+- I can't get you a job or give you an advantage at any particular employer or school
+- I'm advising in my personal capacity and not as a representative of any organization
+
+---
+
+### Academic advisees
+
+It has been a privilege to learn and work with these former lab members at Yale. 
+
+* [Nate Josephs](https://njosephs.com/) - Assistant Professor, Department of Statistics, North Carolina State University
+* [Olga Morozova](https://www.omorozova.com) - Assistant Professor, Department of Public Health Sciences, University of Chicago
+* [Zehang Richard Li](http://zehangli.com) - Assistant Professor, Department of Statistics, UC Santa Cruz
+* [Soheil Eshghi](http://www.soheileshghi.com/) - Associate, McKinsey &amp; Company
+* [Daniel Eck](https://stat.illinois.edu/directory/profile/dje13) / [Ecklab](https://ecklab.github.io/) - Assistant Professor, Department of Statistics, University of Illinois Urbana-Champaign
+* [Yushuf Sharker](https://scholar.google.com/citations?user=VmPoWT8AAAAJ&hl=en) - Center for Drug Evaluation and Research, US FDA
+* [Jinghao Sun](https://jinghao-sun.github.io/) - Postdoc, UPenn Center for Causal Inference
+* [Samantha Dean](https://sammigd.github.io/) - PhD Biostatistics 
+* [Yichi Zhang](https://medicine.yale.edu/profile/yichi_zhang_yz928/) - PhD Biostatistics
+* [Alexandra Djorno](https://statistics.yale.edu/people/alexandra-djorno) - PhD Statistics &amp; Data Science
+* [Margret Erlendsdottir](https://medicine.yale.edu/profile/margret_erlendsdottir/) - Residency, Mt Sinai Cardiology
+* [Xiaoxuan Cai](https://xiaoxuan-cai.github.io) - Assistant Professor, Department of Statistics, The Ohio State University
+* [Ning Zhang](https://www.linkedin.com/in/ning-zhang-264342198/) - PhD UNC Biostatistics
+* [Si Cheng](https://chengs94.github.io/) - Netflix
+* [Jiacheng Wu](https://www.biostat.washington.edu/people/jiacheng-wu) - Meta/Facebook
+
+
+
+
+

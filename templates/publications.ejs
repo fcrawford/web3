@@ -1,0 +1,67 @@
+
+```{=html}
+<% for (const item of items) { %>
+<ol>
+  <% for (const entry in item.entries) { %>
+	  <% let e = item.entries[entry] %>
+  <li>
+	  <% for (const auth of e.author) { %>
+		 <% if (auth.last == "Crawford") { %> <b> <% } %>
+		 <%= auth.first %>
+		 <%= auth.middle %>
+		 <%= auth.last.replace("\\\"u",'\u00FC').replace("\\\"a",'\u00E4').replace("\\\'o", '\u00F3').replace(/}/g, "").replace(/{/g,"") %>,
+		 <% if (auth.last == "Crawford") { %> </b> <% } %>
+		<% } %>
+
+    <%= e.title.replace(/}/g, "").replace(/{/g,"").replace("\\\"a",'\u00E4') %> 
+		(<%= e.year %>) 
+
+		<% if(e.journal) { %>
+		  <% let jrnl = e.journal.replace("\\", "") %>
+      <em><%= jrnl %></em>,
+	  <% } %>
+
+		<% if(e.booktitle) { %>
+      <em><%= e.booktitle %></em>,
+	  <% } %>
+
+		<% if(e.volume) { %>
+		<%= e.volume %> 
+		<% } %> 
+
+    
+		<% if(e.number) { %>
+		(<%= e.number %>) 
+		<% } %> 
+
+		<% if(e.pages) { %>
+		<%= e.pages %>
+		<% } %> 
+
+		<% if(e.note) { %>
+		  <%= e.note %>
+		<% } %>
+
+    <% if (e.url) { %>
+		  <a href="<%= e.url %>">[journal]</a>
+		<% } %>
+    
+		<% if(e.arxiv) { %>
+		  <a href="<%= e.arxiv %>">[preprint]</a>
+		<% } %>
+		<% if(e.free) { %>
+		  <a href="<%= e.free %>">[open access]</a>
+		<% } %>
+		<% if(e.app) { %>
+		  <a href="<%= e.app %>">[app]</a>
+		<% } %>
+		<% if(e.repo) { %>
+		  <a href="<%= e.repo %>">[repo]</a>
+		<% } %>
+  </li>
+  <% } %>
+</ol>
+<% } %>
+```
+
+
