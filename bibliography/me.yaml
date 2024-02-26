@@ -39,6 +39,18 @@ entries:
         -   first: Forrest
             middle: W.
             last: Crawford
+    dnorno2024mutually:
+        type: article
+        title: Mutually exciting point processes for crowdfunding platform dynamics
+        year: '2024'
+        journal: Working Paper
+        arxiv: https://arxiv.org/abs/2402.15433
+        author:
+        -   first: A
+            last: Djorno
+        -   first: Forrest
+            middle: W.
+            last: Crawford
     battaglini2020graphical:
         type: article
         title: 'A Graphical Lasso Approach to Estimating Network Connections: The
@@ -231,6 +243,7 @@ entries:
         journal: Journal of Mathematical Biology
         arxiv: https://arxiv.org/abs/1808.05593
         url: https://link.springer.com/article/10.1007/s00285-022-01801-8
+        free: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9809173/
         volume: '85'
         author:
         -   first: D
