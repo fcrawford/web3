@@ -1,15 +1,13 @@
 entries:
-    sun2022causal:
+    dnorno2024mutually:
         type: article
-        title: Causal identification for continuous-time stochastic processes
-        year: '2022'
-        journal: Submitted
-        arxiv: https://arxiv.org/abs/2211.15934
-        note: (Winner of Best Student Paper award at 2023 Lifetime Data Science Conference
-            (LiDS))
+        title: Mutually exciting point processes for crowdfunding platform dynamics
+        year: '2024'
+        journal: Working Paper
+        arxiv: https://arxiv.org/abs/2402.15433
         author:
-        -   first: J
-            last: Sun
+        -   first: A
+            last: Djorno
         -   first: Forrest
             middle: W.
             last: Crawford
@@ -26,48 +24,6 @@ entries:
         -   first: Forrest
             middle: W.
             last: Crawford
-    zhang2022direct:
-        type: article
-        title: Two perspectives on direct effects under interference
-        year: '2022'
-        journal: Working Paper
-        author:
-        -   first: Y
-            last: Zhang
-        -   first: O
-            last: Morozova
-        -   first: Forrest
-            middle: W.
-            last: Crawford
-    dnorno2024mutually:
-        type: article
-        title: Mutually exciting point processes for crowdfunding platform dynamics
-        year: '2024'
-        journal: Working Paper
-        arxiv: https://arxiv.org/abs/2402.15433
-        author:
-        -   first: A
-            last: Djorno
-        -   first: Forrest
-            middle: W.
-            last: Crawford
-    battaglini2020graphical:
-        type: article
-        title: 'A Graphical Lasso Approach to Estimating Network Connections: The
-            Case of {U.S.} Lawmakers'
-        arxiv: https://www.nber.org/papers/w27557
-        journal: Working Paper
-        year: '2020'
-        author:
-        -   first: M
-            last: Battaglini
-        -   first: Forrest
-            middle: W.
-            last: Crawford
-        -   first: E
-            last: Patacchini
-        -   first: S
-            last: Peng
     schulz2023real:
         type: article
         title: Real-time Dissection and Forecast of Infection Dynamics during a Pandemic
@@ -101,6 +57,33 @@ entries:
             last: Josephs
         -   first: S
             last: Peng
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+    sun2022causal:
+        type: article
+        title: Causal identification for continuous-time stochastic processes
+        year: '2022'
+        journal: Submitted
+        arxiv: https://arxiv.org/abs/2211.15934
+        note: (Winner of Best Student Paper award at 2023 Lifetime Data Science Conference
+            (LiDS))
+        author:
+        -   first: J
+            last: Sun
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+    zhang2022direct:
+        type: article
+        title: Two perspectives on direct effects under interference
+        year: '2022'
+        journal: Working Paper
+        author:
+        -   first: Y
+            last: Zhang
+        -   first: O
+            last: Morozova
         -   first: Forrest
             middle: W.
             last: Crawford
@@ -630,6 +613,23 @@ entries:
             last: Watkins
         -   first: C
             last: Viboud
+    battaglini2020graphical:
+        type: article
+        title: 'A Graphical Lasso Approach to Estimating Network Connections: The
+            Case of {U.S.} Lawmakers'
+        arxiv: https://www.nber.org/papers/w27557
+        journal: Working Paper
+        year: '2020'
+        author:
+        -   first: M
+            last: Battaglini
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+        -   first: E
+            last: Patacchini
+        -   first: S
+            last: Peng
     shirado2020collective:
         type: article
         title: Collective communication and behaviour in response to uncertain `Danger'
