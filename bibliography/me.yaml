@@ -46,10 +46,10 @@ entries:
             last: Karch
         -   first: S
             last: R\"udiger
-    josephs2022communication:
+    josephs2024communication:
         type: article
         title: Communication network dynamics in a large organizational hierarchy
-        year: '2022'
+        year: '2024'
         journal: Submitted
         arxiv: https://arxiv.org/abs/2208.01208
         author:
@@ -60,10 +60,10 @@ entries:
         -   first: Forrest
             middle: W.
             last: Crawford
-    sun2022causal:
+    sun2024causal:
         type: article
         title: Causal identification for continuous-time stochastic processes
-        year: '2022'
+        year: '2024'
         journal: Submitted
         arxiv: https://arxiv.org/abs/2211.15934
         note: (Winner of Best Student Paper award at 2023 Lifetime Data Science Conference
@@ -74,10 +74,10 @@ entries:
         -   first: Forrest
             middle: W.
             last: Crawford
-    zhang2022direct:
+    zhang2024direct:
         type: article
         title: Two perspectives on direct effects under interference
-        year: '2022'
+        year: '2024'
         journal: Working Paper
         author:
         -   first: Y
