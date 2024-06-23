@@ -50,7 +50,8 @@ entries:
         type: article
         title: Communication network dynamics in a large organizational hierarchy
         year: '2024'
-        journal: Submitted
+        journal: Annals of Applied Statistics
+        volume: In Press
         arxiv: https://arxiv.org/abs/2208.01208
         author:
         -   first: N
