@@ -11,6 +11,7 @@ website:
     left: "&copy; {{< var currentyear >}} Forrest W. Crawford " 
     right: "[Colophon](/colophon)"
   page-navigation: false
+  google-analytics: "G-LRPX59EP68"
 
   twitter-card: 
     creator: "@fcraw4d"
