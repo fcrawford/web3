@@ -35,7 +35,7 @@ It has been a privilege to learn and work with these former lab members at Yale.
 * [Daniel Eck](https://stat.illinois.edu/directory/profile/dje13) / [Ecklab](https://ecklab.github.io/) - Assistant Professor, Department of Statistics, University of Illinois Urbana-Champaign
 * [Yushuf Sharker](https://scholar.google.com/citations?user=VmPoWT8AAAAJ&hl=en) - Center for Drug Evaluation and Research, US FDA
 * [Jinghao Sun](https://jinghao-sun.github.io/) - Postdoc, UPenn Center for Causal Inference
-* [Samantha Dean](https://sammigd.github.io/) - PhD Biostatistics 
+* [Samantha Dean](https://sammigd.github.io/) - Fellow, CDC 
 * [Yichi Zhang](https://medicine.yale.edu/profile/yichi_zhang_yz928/) - PhD Biostatistics
 * [Alexandra Djorno](https://statistics.yale.edu/people/alexandra-djorno) - PhD Statistics &amp; Data Science
 * [Margret Erlendsdottir](https://medicine.yale.edu/profile/margret_erlendsdottir/) - Residency, Mt Sinai Cardiology

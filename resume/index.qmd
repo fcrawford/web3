@@ -2,7 +2,7 @@
 title: Resume/CV
 ---
 
+[Resume (1 page)](crawford_resume.pdf)
 
-[Resume (2 pages)](crawford_resume.pdf)
+[Long-form CV](crawford_cv_academic.pdf)
 
-[Academic CV (long-form)](crawford_cv_academic.pdf)

@@ -1,4 +1,24 @@
 entries:
+    crawford2024securing:
+        type: article
+        title: Securing commercial nucleic acid synthesis
+        year: '2024'
+        journal: RAND Report
+        url: https://www.rand.org/pubs/research_reports/RRA3329-1.html
+        author:
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+        -   first: K
+            last: Webster
+        -   first: GL
+            last: Epstein
+        -   first: D
+            last: Roberts
+        -   first: J
+            last: Fair
+        -   first: S
+            last: Nevo
     dnorno2024mutually:
         type: article
         title: Mutually exciting point processes for crowdfunding platform dynamics
