@@ -2,7 +2,7 @@
 title: Career Advising
 ---
 
-I offer free career advising to students, early-career researchers, and mid-career professionals whose interests, experiences, or ambitions line up with mine.  
+I offer free career advising to students, early-career researchers, and mid-career professionals whose interests, experiences, or ambitions line up with mine. You don't have to know me or be a student at Yale or any institution I'm affiliated with. 
 
 If you're interested in speaking with me, please [get in touch](/contact). In your message, please briefly describe:
 
@@ -36,13 +36,13 @@ It has been a privilege to learn and work with these former lab members at Yale.
 * [Yushuf Sharker](https://scholar.google.com/citations?user=VmPoWT8AAAAJ&hl=en) - Center for Drug Evaluation and Research, US FDA
 * [Jinghao Sun](https://jinghao-sun.github.io/) - Postdoc, UPenn Center for Causal Inference
 * [Samantha Dean](https://sammigd.github.io/) - Fellow, CDC 
-* [Yichi Zhang](https://medicine.yale.edu/profile/yichi_zhang_yz928/) - PhD Biostatistics
+* [Yichi Zhang](https://medicine.yale.edu/profile/yichi_zhang_yz928/) - Google 
 * [Alexandra Djorno](https://statistics.yale.edu/people/alexandra-djorno) - PhD Statistics &amp; Data Science
 * [Margret Erlendsdottir](https://medicine.yale.edu/profile/margret_erlendsdottir/) - Residency, Mt Sinai Cardiology
 * [Xiaoxuan Cai](https://xiaoxuan-cai.github.io) - Assistant Professor, Department of Statistics, The Ohio State University
 * [Ning Zhang](https://www.linkedin.com/in/ning-zhang-264342198/) - PhD UNC Biostatistics
 * [Si Cheng](https://chengs94.github.io/) - Netflix
-* [Jiacheng Wu](https://www.biostat.washington.edu/people/jiacheng-wu) - Meta/Facebook
+* [Jiacheng Wu](https://www.biostat.washington.edu/people/jiacheng-wu) - Meta
 
 
 
