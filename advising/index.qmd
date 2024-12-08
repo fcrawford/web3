@@ -31,13 +31,13 @@ It has been a privilege to learn and work with these former lab members at Yale.
 * [Nate Josephs](https://njosephs.com/) - Assistant Professor, Department of Statistics, North Carolina State University
 * [Olga Morozova](https://www.omorozova.com) - Assistant Professor, Department of Public Health Sciences, University of Chicago
 * [Zehang Richard Li](http://zehangli.com) - Assistant Professor, Department of Statistics, UC Santa Cruz
-* [Soheil Eshghi](http://www.soheileshghi.com/) - Associate, McKinsey &amp; Company
+* [Soheil Eshghi](http://www.soheileshghi.com/) - Program Officer, Bill &amp; Melinda Gates Foundation
 * [Daniel Eck](https://stat.illinois.edu/directory/profile/dje13) / [Ecklab](https://ecklab.github.io/) - Assistant Professor, Department of Statistics, University of Illinois Urbana-Champaign
-* [Yushuf Sharker](https://scholar.google.com/citations?user=VmPoWT8AAAAJ&hl=en) - Center for Drug Evaluation and Research, US FDA
+* [Yushuf Sharker](https://scholar.google.com/citations?user=VmPoWT8AAAAJ&hl=en) - Senior Manager, Takeda Pharmaceuticals
 * [Jinghao Sun](https://jinghao-sun.github.io/) - Postdoc, UPenn Center for Causal Inference
-* [Samantha Dean](https://sammigd.github.io/) - Fellow, CDC 
+* [Samantha Dean](https://sammigd.github.io/) - Fellow, U.S. Centers for Disease Control and Prevention
 * [Yichi Zhang](https://medicine.yale.edu/profile/yichi_zhang_yz928/) - Google 
-* [Alexandra Djorno](https://statistics.yale.edu/people/alexandra-djorno) - PhD Statistics &amp; Data Science
+* [Alexandra Djorno](https://statistics.yale.edu/people/alexandra-djorno) - Amazon
 * [Margret Erlendsdottir](https://medicine.yale.edu/profile/margret_erlendsdottir/) - Residency, Mt Sinai Cardiology
 * [Xiaoxuan Cai](https://xiaoxuan-cai.github.io) - Assistant Professor, Department of Statistics, The Ohio State University
 * [Ning Zhang](https://www.linkedin.com/in/ning-zhang-264342198/) - PhD UNC Biostatistics
