@@ -1,9 +1,111 @@
 entries:
+    luckey2025mitigating:
+        type: article
+        title: Mitigating Risks at the Intersection of Artificial Intelligence and
+            Chemical and Biological Weapons
+        journal: RAND
+        year: '2025'
+        url: https://www.rand.org/pubs/research_reports/RRA2990-1.html
+        author:
+        -   first: D
+            last: Luckey
+        -   first: S
+            middle: Duhachek
+            last: Muggy
+        -   first: T
+            last: Frey
+        -   first: D
+            last: Stebbins
+        -   first: T
+            last: Rissman
+        -   first: B
+            last: Espinosa
+        -   first: D
+            last: Tapia
+        -   first: Jr
+            last: G McKelvey
+        -   first: N
+            last: Pokhriyal
+        -   first: J
+            last: Dawson
+        -   first: S
+            last: Hughes
+        -   first: M
+            last: Sandler
+        -   first: R
+            last: Bakhshi
+        -   first: M
+            last: Kepe
+        -   first: G
+            last: Kirkwood
+        -   first: S
+            middle: W
+            last: Denton
+        -   first: D
+            last: DeSmet
+        -   first: M
+            last: Makino
+        -   first: E
+            last: Guest
+        -   first: S
+            last: Beaghley
+        -   first: S
+            last: Genc
+        -   first: M
+            last: Miller
+        -   first: S
+            middle: A
+            last: Miner
+        -   first: B
+            middle: Del
+            last: Castello
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+        -   first: J
+            last: Lee
+        -   first: C
+            last: Strickland
+        -   first: S
+            middle: D
+            last: Bhatt
+        -   first: J
+            last: Vahedi
+        -   first: L
+            last: Grek
+        -   first: V
+            last: Barrer
+        -   first: Jr.
+            last: R Insuasti
+        -   first: J
+            last: Lashendock
+        -   first: D
+            last: Roberts
+        -   first: A
+            middle: Esparza
+            last: Hartunian
+        -   first: S
+            last: Walsh
+        -   first: W
+            last: Shumate
+        -   first: E
+            last: Brennan
+        -   first: T
+            last: Liggett
+        -   first: K
+            last: Jia
+        -   first: A
+            middle: K
+            last: Kochhar
+        -   first: J
+            last: Smith
+        -   first: J
+            last: Ryseff
     crawford2024securing:
         type: article
         title: Securing commercial nucleic acid synthesis
         year: '2024'
-        journal: RAND Report
+        journal: RAND
         url: https://www.rand.org/pubs/research_reports/RRA3329-1.html
         author:
         -   first: Forrest
