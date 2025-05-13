@@ -2,7 +2,7 @@
 title: About me
 ---
 
-I'm a [senior researcher](https://www.rand.org/about/people/c/crawford_forrest.html) at [RAND](https://rand.org) working on biosecurity and emerging technology.  
+I'm a [senior researcher](https://www.rand.org/about/people/c/crawford_forrest.html) at [RAND](https://rand.org) working on biosecurity and emerging technology.
 
 I'm also the Senior Scientist at [Whitespace](https://inthewhitespace.com/), a geospatial intelligence company. 
 
@@ -10,7 +10,7 @@ In addition, I'm an [adjunct faculty member](https://ysph.yale.edu/profile/forre
 
 My methodological/quantitative interests are broad. I'm interested in AI/ML, applied math, stochastic processes, modeling, causal inference, networks/graphs, computation, optimization, and algorithms. 
 
-I've worked in a variety of applied fields, including public health, security, intelligence, human rights, biomedical science, epidemiology, neuroscience, evolutionary biology, bioengineering, radiology, and sociology. 
+I've worked in a variety of applied fields, including biomedical science, epidemiology, security, intelligence, human rights, neuroscience, bioengineering, radiology, and sociology. 
 
 Please [get in touch](contact) if you'd like to talk. Or, you can [leave me anonymous feedback](https://www.admonymous.co/forrestcrawford). 
 

@@ -1,4 +1,19 @@
 entries:
+    epstein2025policy:
+        type: article
+        title: Policy Options to Prevent the Creation of Mirror Organisms
+        url: https://www.rand.org/pubs/perspectives/PEA3436-1.html
+        year: '2025'
+        journal: RAND
+        author:
+        -   first: G
+            middle: L
+            last: Epstein
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+        -   first: S
+            last: Nevo
     luckey2025mitigating:
         type: article
         title: Mitigating Risks at the Intersection of Artificial Intelligence and

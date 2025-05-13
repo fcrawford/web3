@@ -4,5 +4,5 @@ title: Resume/CV
 
 [Resume (1 page)](crawford_resume.pdf)
 
-[Long-form CV](crawford_cv_academic.pdf)
+[Long-form CV (+publications, presentations, mentoring)](crawford_cv_academic.pdf)
 

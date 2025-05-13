@@ -33,8 +33,8 @@ It has been a privilege to learn and work with these former lab members at Yale.
 * [Zehang Richard Li](http://zehangli.com) - Assistant Professor, Department of Statistics, UC Santa Cruz
 * [Soheil Eshghi](http://www.soheileshghi.com/) - Program Officer, Bill &amp; Melinda Gates Foundation
 * [Daniel Eck](https://stat.illinois.edu/directory/profile/dje13) / [Ecklab](https://ecklab.github.io/) - Assistant Professor, Department of Statistics, University of Illinois Urbana-Champaign
-* [Yushuf Sharker](https://scholar.google.com/citations?user=VmPoWT8AAAAJ&hl=en) - Senior Manager, Takeda Pharmaceuticals
-* [Jinghao Sun](https://jinghao-sun.github.io/) - Postdoc, UPenn Center for Causal Inference
+* [Yushuf Sharker](https://scholar.google.com/citations?user=VmPoWT8AAAAJ&hl=en) - Takeda Pharmaceuticals
+* [Jinghao Sun](https://jinghao-sun.github.io/) - UPenn Center for Causal Inference
 * [Samantha Dean](https://sammigd.github.io/) - Fellow, U.S. Centers for Disease Control and Prevention
 * [Yichi Zhang](https://medicine.yale.edu/profile/yichi_zhang_yz928/) - Google 
 * [Alexandra Djorno](https://statistics.yale.edu/people/alexandra-djorno) - Amazon
