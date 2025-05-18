@@ -4,9 +4,12 @@ This repository holds the resources I use to build my (static) [website](http://
 - I generate the publication list from BibTeX
 - I made a few small changes to the formatting
 
+The Makefile assumes the existence of `../cv` and `../bib`, where I keep my resume and bibliography, respectively.  
+
 Requirements: 
-- Install [Quarto](https://quarto.org) and [Pandoc](https://pandoc.org). 
-- Install the Python package [Pybtex](https://pybtex.org)
+- [Pandoc](https://pandoc.org) 
+- [Quarto](https://quarto.org) 
+- [Pybtex](https://pybtex.org)
 
 
 
