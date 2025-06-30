@@ -1,4 +1,24 @@
 entries:
+    berke2025data:
+        type: article
+        title: Data and AI-Enabled Biological Design
+        year: '2025'
+        url: https://www.rand.org/pubs/perspectives/PEA3886-1.html
+        journal: RAND
+        author:
+        -   first: A
+            last: Berke
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+        -   first: T
+            last: Webster
+        -   first: J
+            last: Smith
+        -   first: S
+            last: Zakaria
+        -   first: S
+            last: Nevo
     epstein2025policy:
         type: article
         title: Policy Options to Prevent the Creation of Mirror Organisms
@@ -136,11 +156,11 @@ entries:
             last: Fair
         -   first: S
             last: Nevo
-    dnorno2024mutually:
+    dnorno2025mutually:
         type: article
         title: Mutually exciting point processes for crowdfunding platform dynamics
-        year: '2024'
-        journal: Working Paper
+        year: '2025'
+        journal: Annals of Applied Statistics
         arxiv: https://arxiv.org/abs/2402.15433
         author:
         -   first: A
