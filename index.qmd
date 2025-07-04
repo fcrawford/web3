@@ -6,11 +6,11 @@ I'm a [senior researcher](https://www.rand.org/about/people/c/crawford_forrest.h
 
 I'm also the Senior Scientist at [Whitespace](https://inthewhitespace.com/), a geospatial intelligence company. 
 
-In addition, I'm an [adjunct faculty member](https://ysph.yale.edu/profile/forrest_crawford/) at [Yale University](http://www.yale.edu). Previously, I was full-time professor at Yale in the Departments of [Biostatistics](http://publichealth.yale.edu/biostat), [Statistics & Data Science](https://statistics.yale.edu), [Operations](http://som.yale.edu/programs/doctoral/overview/operations), and [Ecology & Evolutionary Biology](http://eeb.yale.edu).  At Yale I taught courses on stochastic processes, computational statistics, modeling, and causal inference. I worked on lots of things, including the COVID-19 pandemic response, the opioid overdose crisis, HIV outbreaks, and methods for studying hidden and hard-to-reach populations. I also received the [NIH Director's New Innovator Award (DP2)](https://commonfund.nih.gov/newinnovator). 
+In addition, I'm an [adjunct faculty member](https://ysph.yale.edu/profile/forrest_crawford/) at [Yale University](http://www.yale.edu). Previously, I was full-time professor at Yale in the Departments of [Biostatistics](http://publichealth.yale.edu/biostat), [Statistics & Data Science](https://statistics.yale.edu), [Operations](http://som.yale.edu/programs/doctoral/overview/operations), and [Ecology & Evolutionary Biology](http://eeb.yale.edu).  At Yale I taught courses on stochastic processes, computational statistics, modeling, and causal inference. I worked on lots of things, including COVID-19, the opioid overdose crisis, HIV outbreaks, and methods for studying hidden populations. I also received the [NIH Director's New Innovator Award (DP2)](https://commonfund.nih.gov/newinnovator). 
 
 My methodological/quantitative interests are broad. I'm interested in AI/ML, applied math, stochastic processes, modeling, causal inference, networks/graphs, computation, optimization, and algorithms. 
 
-I've worked in a variety of applied fields, including biomedical science, epidemiology, security, intelligence, human rights, neuroscience, bioengineering, radiology, and sociology. 
+I've worked in a variety of applied fields, including biomedical science, epidemiology, security, intelligence, neuroscience, bioengineering, radiology, and sociology. 
 
 Please [get in touch](contact) if you'd like to talk. Or, you can [leave me anonymous feedback](https://www.admonymous.co/forrestcrawford). 
 
