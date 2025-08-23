@@ -1,4 +1,16 @@
 entries:
+    dnorno2025mutually:
+        type: article
+        title: Mutually exciting point processes for crowdfunding platform dynamics
+        year: '2025'
+        journal: Annals of Applied Statistics
+        arxiv: https://arxiv.org/abs/2402.15433
+        author:
+        -   first: A
+            last: Djorno
+        -   first: Forrest
+            middle: W.
+            last: Crawford
     berke2025data:
         type: article
         title: Data and AI-Enabled Biological Design
@@ -136,6 +148,31 @@ entries:
             last: Smith
         -   first: J
             last: Ryseff
+    zhang2025direct:
+        type: article
+        title: Two perspectives on direct effects under interference
+        year: '2025'
+        journal: Working Paper
+        author:
+        -   first: Y
+            last: Zhang
+        -   first: O
+            last: Morozova
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+    zhang2025time:
+        type: article
+        title: Time-varying confounding in epidemic intervention evaluations
+        arxiv: https://arxiv.org/abs/2508.13427
+        year: '2025'
+        journal: Working Paper
+        author:
+        -   first: Y
+            last: Zhang
+        -   first: Forrest
+            middle: W.
+            last: Crawford
     crawford2024securing:
         type: article
         title: Securing commercial nucleic acid synthesis
@@ -156,15 +193,32 @@ entries:
             last: Fair
         -   first: S
             last: Nevo
-    dnorno2025mutually:
+    josephs2024communication:
         type: article
-        title: Mutually exciting point processes for crowdfunding platform dynamics
-        year: '2025'
+        title: Communication network dynamics in a large organizational hierarchy
+        year: '2024'
         journal: Annals of Applied Statistics
-        arxiv: https://arxiv.org/abs/2402.15433
+        volume: In Press
+        arxiv: https://arxiv.org/abs/2208.01208
         author:
-        -   first: A
-            last: Djorno
+        -   first: N
+            last: Josephs
+        -   first: S
+            last: Peng
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+    sun2024causal:
+        type: article
+        title: Causal identification for continuous-time stochastic processes
+        year: '2024'
+        journal: Submitted
+        arxiv: https://arxiv.org/abs/2211.15934
+        note: (Winner of Best Student Paper award at 2023 Lifetime Data Science Conference
+            (LiDS))
+        author:
+        -   first: J
+            last: Sun
         -   first: Forrest
             middle: W.
             last: Crawford
@@ -203,79 +257,6 @@ entries:
             last: Karch
         -   first: S
             last: R\"udiger
-    josephs2024communication:
-        type: article
-        title: Communication network dynamics in a large organizational hierarchy
-        year: '2024'
-        journal: Annals of Applied Statistics
-        volume: In Press
-        arxiv: https://arxiv.org/abs/2208.01208
-        author:
-        -   first: N
-            last: Josephs
-        -   first: S
-            last: Peng
-        -   first: Forrest
-            middle: W.
-            last: Crawford
-    sun2024causal:
-        type: article
-        title: Causal identification for continuous-time stochastic processes
-        year: '2024'
-        journal: Submitted
-        arxiv: https://arxiv.org/abs/2211.15934
-        note: (Winner of Best Student Paper award at 2023 Lifetime Data Science Conference
-            (LiDS))
-        author:
-        -   first: J
-            last: Sun
-        -   first: Forrest
-            middle: W.
-            last: Crawford
-    zhang2024direct:
-        type: article
-        title: Two perspectives on direct effects under interference
-        year: '2024'
-        journal: Working Paper
-        author:
-        -   first: Y
-            last: Zhang
-        -   first: O
-            last: Morozova
-        -   first: Forrest
-            middle: W.
-            last: Crawford
-    erlendsdottir2021modeling:
-        type: article
-        title: Modeling {COVID-19} care capacity in a major health system
-        year: '2021'
-        arxiv: https://www.medrxiv.org/content/early/2021/11/20/2021.11.18.21266407
-        app: https://forrestcrawford.shinyapps.io/covid19_icu/
-        repo: https://github.com/fcrawford/covid19_icu
-        journal: Submitted
-        author:
-        -   first: M
-            last: Erlendsdottir
-        -   first: S
-            last: Eshghi
-        -   first: Forrest
-            middle: W.
-            last: Crawford
-    cai2021causal:
-        type: article
-        title: Causal identification of infectious disease intervention effects in
-            a clustered population
-        year: '2021'
-        journal: Submitted
-        arxiv: https://arxiv.org/abs/2105.03493
-        author:
-        -   first: X
-            last: Cai
-        -   first: E
-            last: Kenah
-        -   first: Forrest
-            middle: W.
-            last: Crawford
     lu2023geographic:
         type: article
         title: Geographic and temporal trends in fentanyl-involved deaths in {Connecticut},
@@ -507,6 +488,74 @@ entries:
         -   first: V
             middle: E
             last: Pitzer
+    crawford2022impact:
+        type: article
+        title: 'Impact of close interpersonal contact on {COVID-19} incidence: evidence
+            from one year of mobile device data'
+        year: '2022'
+        journal: Science Advances
+        volume: '8'
+        url: https://www.science.org/doi/10.1126/sciadv.abi5499
+        arxiv: https://www.medrxiv.org/content/10.1101/2021.03.10.21253282v1
+        note: (Winner of the Innovative Tradecraft Competition at the US Geospatial
+            Intelligence Foundation 2021 meeting)
+        author:
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+        -   first: S
+            last: Jones
+        -   first: M
+            last: Cartter
+        -   first: S
+            middle: G
+            last: Dean
+        -   first: J
+            middle: L
+            last: Warren
+        -   first: Zehang
+            last: Li
+        -   first: J
+            last: Barbieri
+        -   first: J
+            last: Campbell
+        -   first: P
+            last: Kenney
+        -   first: T
+            last: Valleau
+        -   first: O
+            last: Morozova
+    erlendsdottir2021modeling:
+        type: article
+        title: Modeling {COVID-19} care capacity in a major health system
+        year: '2021'
+        arxiv: https://www.medrxiv.org/content/early/2021/11/20/2021.11.18.21266407
+        app: https://forrestcrawford.shinyapps.io/covid19_icu/
+        repo: https://github.com/fcrawford/covid19_icu
+        journal: Submitted
+        author:
+        -   first: M
+            last: Erlendsdottir
+        -   first: S
+            last: Eshghi
+        -   first: Forrest
+            middle: W.
+            last: Crawford
+    cai2021causal:
+        type: article
+        title: Causal identification of infectious disease intervention effects in
+            a clustered population
+        year: '2021'
+        journal: Submitted
+        arxiv: https://arxiv.org/abs/2105.03493
+        author:
+        -   first: X
+            last: Cai
+        -   first: E
+            last: Kenah
+        -   first: Forrest
+            middle: W.
+            last: Crawford
     schultes2021covid:
         type: article
         title: '{COVID}-19 Testing and Case Rates and Social Contact Among Residential
@@ -567,43 +616,6 @@ entries:
             last: Brown
         -   first: J
             last: Peccia
-    crawford2022impact:
-        type: article
-        title: 'Impact of close interpersonal contact on {COVID-19} incidence: evidence
-            from one year of mobile device data'
-        year: '2022'
-        journal: Science Advances
-        volume: '8'
-        url: https://www.science.org/doi/10.1126/sciadv.abi5499
-        arxiv: https://www.medrxiv.org/content/10.1101/2021.03.10.21253282v1
-        note: (Winner of the Innovative Tradecraft Competition at the US Geospatial
-            Intelligence Foundation 2021 meeting)
-        author:
-        -   first: Forrest
-            middle: W.
-            last: Crawford
-        -   first: S
-            last: Jones
-        -   first: M
-            last: Cartter
-        -   first: S
-            middle: G
-            last: Dean
-        -   first: J
-            middle: L
-            last: Warren
-        -   first: Zehang
-            last: Li
-        -   first: J
-            last: Barbieri
-        -   first: J
-            last: Campbell
-        -   first: P
-            last: Kenney
-        -   first: T
-            last: Valleau
-        -   first: O
-            last: Morozova
     morozova2021one:
         type: article
         title: One year of modeling {COVID-19} transmission to support policymakers
