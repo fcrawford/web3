@@ -2,7 +2,7 @@
 title: Career Advising
 ---
 
-I offer free career advising to students and professionals whose interests, experiences, or ambitions line up with mine. You don't have to know me or be affiliated with any particular institution to ask for a meeting.  
+I offer free career advising to students and professionals whose interests, experiences, or ambitions line up with mine. You don't have to know me or be affiliated with any particular institution to ask for a meeting.
 
 If you're interested in speaking with me, please [get in touch](/contact). In your message, please briefly describe:
 
@@ -17,6 +17,7 @@ If I think I can help, I'll respond to schedule a time to talk.
 
 ### Caveats 
 
+- I'm not taking students at Yale or elsewhere
 - I can't advise in areas outside my expertise
 - My time is very limited and I cannot respond to all requests
 - I can't get you a job or give you an advantage at any particular employer or school

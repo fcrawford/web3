@@ -5,6 +5,7 @@ entries:
         year: '2025'
         journal: Annals of Applied Statistics
         arxiv: https://arxiv.org/abs/2402.15433
+        url: https://projecteuclid.org/journals/annals-of-applied-statistics/volume-19/issue-3/Mutually-exciting-point-processes-for-crowdfunding-platform-dynamics/10.1214/25-AOAS2051.short
         author:
         -   first: A
             last: Djorno
