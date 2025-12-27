@@ -1,4 +1,25 @@
 entries:
+    attal2025informal:
+        type: article
+        title: 'Mapping the Informal Bioeconomy: Assessing the Current Landscape and
+            Opportunities for Reinforcing Biosafety and Biosecurity'
+        year: '2025'
+        journal: RAND
+        url: https://www.rand.org/pubs/research_reports/RRA4332-1.html
+        author:
+        -   first: A
+            last: Attal-Juncqua
+        -   first: S
+            last: Popescu
+        -   first: J
+            last: Tarangelo
+        -   first: G
+            last: Griffin
+        -   first: R
+            last: Moritz
+        -   first: Forrest
+            middle: W.
+            last: Crawford
     dnorno2025mutually:
         type: article
         title: Mutually exciting point processes for crowdfunding platform dynamics
@@ -199,8 +220,9 @@ entries:
         title: Communication network dynamics in a large organizational hierarchy
         year: '2024'
         journal: Annals of Applied Statistics
-        volume: In Press
+        volume: '18'
         arxiv: https://arxiv.org/abs/2208.01208
+        url: https://projecteuclid.org/journals/annals-of-applied-statistics/volume-18/issue-4/Communication-network-dynamics-in-a-large-organizational-hierarchy/10.1214/24-AOAS1919.short
         author:
         -   first: N
             last: Josephs
@@ -317,12 +339,13 @@ entries:
     josephs2022sample:
         type: article
         title: A sample size formula for network scale-up surveys
-        year: '2022'
+        year: '2024'
         arxiv: https://arxiv.org/abs/2111.09684
         url: https://journals.sagepub.com/doi/10.1177/00491241221122576
         github: https://github.com/njosephs/NSUM_sample_size
         journal: Sociological Methods and Research
-        volume: In press
+        volume: '53'
+        pages: 1252-1289
         author:
         -   first: N
             last: Josephs
